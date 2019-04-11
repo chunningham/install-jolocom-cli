@@ -4,7 +4,7 @@
     echo `sudo apt update -y`
     echo `sudo apt upgrade -y`
 
-    echo `apt-get git`
+    echo `apt install git`
 
     echo `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash`
 
